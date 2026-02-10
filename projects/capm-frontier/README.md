@@ -2,7 +2,7 @@
 
 **Author:** Mario Innocente | MIM Candidate, INSEAD  
 **Focus:** Portfolio Management, Quantitative Analysis, Python
-
+[📄 **Download Full Research Report (PDF)**](CAPM Project.pdf)
 ---
 
 ## 🚀 Executive Summary
