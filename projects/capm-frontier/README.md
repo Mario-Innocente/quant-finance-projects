@@ -4,7 +4,7 @@
 **Focus:** Portfolio Management, Quantitative Analysis, Python
 
 ---
-[📄 **Download Full Research Report (PDF)**](CAPM%20Project.pdf)
+[📄 **Download Full Research Report (PDF)**](reportsCAPM2.pdf)
 ## 🚀 Executive Summary
 This project implements a quantitative framework for constructing an optimal equity portfolio within the US Tech sector. By combining **Factor Analysis (CAPM)** with **Modern Portfolio Theory (Markowitz)**, the model identifies the optimal trade-off between risk and return.
 
