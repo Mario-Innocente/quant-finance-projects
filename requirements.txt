@@ -1,0 +1,15 @@
+# Core Data Science Stack
+numpy
+pandas
+matplotlib
+scipy
+
+# Financial Data Source
+yfinance
+
+# Econometrics & Statistics (CAPM, GARCH)
+statsmodels
+arch
+
+# Notebook Environment
+jupyter
