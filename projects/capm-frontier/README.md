@@ -23,7 +23,7 @@ The model constructs the **Efficient Frontier**, identifying two critical portfo
 * **The GMV (Blue X):** The lowest risk mathematically achievable.
 * **The Tangency Portfolio (Gold X):** The portfolio with the highest risk-adjusted return (Max Sharpe).
 
-> **Note:** See `efficient_frontier.png` in the repository for the output visualization.
+> ![Efficient Frontier Graph](../../images/efficient_frontier.png)
 
 ---
 
