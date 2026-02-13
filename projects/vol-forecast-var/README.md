@@ -26,7 +26,8 @@ The analysis generates two critical insights:
 
 
 
-> **Note:** See the `images/` folder or run the notebook to view the `Volatility_Regime_Analysis.png`.
+> **Note:** See the `images/` folder or run the notebook to view.
+> ![EMWA vs GARCH](../../images/efficient_frontier.png)
 
 ---
 
