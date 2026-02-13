@@ -20,8 +20,8 @@ The engine processes historical data for large-cap tech stocks (`AAPL`, `MSFT`, 
 *(Note: Run the notebook to generate the interactive plots)*
 
 The model constructs the **Efficient Frontier**, identifying two critical portfolios:
-* **The GMV (Green Diamond):** The lowest risk mathematically achievable.
-* **The Tangency Portfolio (Gold Star):** The portfolio with the highest risk-adjusted return (Max Sharpe).
+* **The GMV (Blue X):** The lowest risk mathematically achievable.
+* **The Tangency Portfolio (Gold X):** The portfolio with the highest risk-adjusted return (Max Sharpe).
 
 > **Note:** See `efficient_frontier.png` in the repository for the output visualization.
 
